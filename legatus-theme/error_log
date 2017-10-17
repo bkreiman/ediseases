@@ -1,0 +1,1 @@
+[30-Sep-2017 09:35:06 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/adminediseases/public_html/wp-content/themes/legatus-theme/header.php on line 2

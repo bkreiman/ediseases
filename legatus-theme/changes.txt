@@ -1,0 +1,450 @@
+Version 2.2.3
+* Edited Files
+style.css
+functions.php
+css/main-stylesheet.css
+
+Version 2.2.2
+* Edited Files
+style.css
+includes/lib/plugins/js_composer.zip
+js/theme-scripts.js
+
+Version 2.2.1
+* Edited Files
+style.css
+includes/lib/plugins/js_composer.zip
+
+Version 2.2.0
+* Edited Files
+style.css
+css/dat-menu.css
+css/responsive.css
+
+Version 2.1.9
+* Edited Files
+style.css
+functions/other.php
+
+Version 2.1.8
+* Edited Files
+style.css
+functions/tax-meta-class/tax-meta-class.php
+functions/custom-admin-menu.php
+
+Version 2.1.7
+* Edited Files
+style.css
+includes/lib/plugins/js_composer.zip
+functions/filters.php
+includes/sliders/breaking-news.php
+includes/sliders/breaking-news-footer.php
+includes/sliders/main-slider.php
+
+Version 2.1.6
+* Edited Files
+style.css
+includes/lib/plugins/js_composer.zip
+includes/lib/plugins/legatus-extended.zip
+
+Version 2.1.5
+* Edited Files
+style.css
+includes/admin/functions/default-values.php
+includes/lib/plugins/js_composer.zip
+includes/lib/class-tgm-plugin-activation.php
+header.php
+functions.php
+includes/theme-config.php
+includes/widgets/init.php
+includes/widgets/widget-ad300x250.php
+includes/widgets/widget-legatus-cat.php
+includes/widgets/widget-legatus-aweber.php - moved to plugin
+includes/widgets/widget-legatus-category-posts.php
+includes/widgets/widget-legatus-comments.php
+includes/widgets/widget-legatus-gallery.php
+includes/widgets/widget-legatus-latest-posts.php
+includes/widgets/widget-legatus-latest-posts-2.php
+includes/widgets/widget-legatus-popular-posts.php
+functions/register.php
+functions/other.php
+includes/lib/plugins/legatus-extended.zip
+includes/shortcodes/ - moved to plugin 
+functions/aweber_api/ - moved to plugin 
+
+Version 2.1.4
+* Edited Files
+style.css
+css/responsive.css
+template-contact.php
+
+Version 2.1.3
+* Edited Files
+style.css
+includes/theme-config.php
+includes/lib/plugins/js_composer.zip
+
+Version 2.1.2
+* Edited Files
+style.css
+includes/lib/plugins/js_composer.zip
+js/scripts.js
+js/theme-scripts.js
+includes/loop/post.php
+css/main-stylesheet.css
+
+Version 2.1.1
+* Edited Files
+style.css
+includes/lib/plugins/js_composer.zip
+includes/news-single.php
+includes/page-single.php
+includes/single/share.php
+includes/social.php
+includes/admin/general.php
+css/main-stylesheet.css
+
+Version 2.1.0
+* Edited Files
+style.css
+includes/lib/plugins/js_composer.zip
+
+Version 2.0.9
+* Edited Files
+style.css
+includes/lib/plugins/js_composer.zip
+includes/lib/plugins/woocommerce.zip
+includes/widgets/widget-ad300x250.php
+includes/widgets/widget-legatus-aweber.php
+includes/widgets/widget-legatus-cat.php
+includes/widgets/widget-legatus-category-posts.php
+includes/widgets/widget-legatus-comments.php
+includes/widgets/widget-legatus-gallery.php
+includes/widgets/widget-legatus-latest-posts.php
+includes/widgets/widget-legatus-latest-posts-2.php
+includes/widgets/widget-legatus-popular-posts.php
+includes/single/post-title.php
+includes/loop/image.php
+includes/loop/post.php
+
+Version 2.0.8
+* Edited Files
+style.css
+functions/filters.php
+functions/other.php
+includes/lib/plugins/js_composer.zip
+includes/lib/class-tgm-plugin-activation.php
+includes/home-blocks/latest-news-4.php
+includes/single/about-author.php
+includes/widgets/widget-legatus-comments.php
+
+Version 2.0.7
+*Edited Files
+style.css
+functions/ajax.php
+includes/lib/plugins/js_composer.zip
+
+Version 2.0.6
+*Edited Files
+style.css
+includes/home-blocks/latest-news-1.php
+
+Version 2.0.5
+*Edited Files
+includes/sliders/breaking-news.php
+
+Version 2.0.5
+*Edited Files
+style.css
+includes/lib/plugins/js_composer.zip
+includes/news.php
+includes/loop/post.php
+includes/loop/image.php
+
+
+Version 2.0.4
+*Edited Files
+style.css
+includes/admin/buttons-formatting/custom-editor-style.css
+includes/admin/buttons-formatting/editor-plugin.js
+includes/lib/plugins/js_composer.zip
+
+Version 2.0.3
+*Edited Files
+style.css
+functions.php
+functions/jquery-css-include.php
+css/dynamic-css.php
+css/fonts.php
+js/scripts.php
+js/admin/scripts.js
+includes/admin/general.php
+
+Version 2.0.2
+*Edited Files
+style.css
+functions/other.php
+includes/admin/general.php
+
+Version 2.0.1
+*Edited Files
+style.css
+includes/admin/functions/general.php
+functions/ajax.php
+js/admin/scripts.js
+includes/theme-config.php
+template-homepage.php
+
+Version 2.0.0
+*Edited Files
+MAJOR UPDATE
+
+Version 1.3.0
+*Edited Files
+style.css
+includes/lib/plugins/js_composer.zip
+
+Version 1.2.9
+*Edited Files
+style.css
+includes/lib/plugins/js_composer.zip
+includes/admin/functions/jquery-css-include.php
+
+Version 1.2.8
+*Edited Files
+style.css
+includes/lib/plugins/js_composer.zip
+
+Version 1.2.7
+*Edited Files
+style.css
+includes/admin/functions/jquery-css-include.php
+css/admin/main-stylesheet.css
+css/admin/safari.css
+css/admin/main-responsive.css
+functions.php
+
+
+Version 1.2.6
+*Edited Files
+style.css
+css/shortcode.css
+
+Version 1.2.5
+*Edited Files
+style.css
+includes/lib/plugins/js_composer.zip
+functions/homepage-blocks.php
+functions/drag-drop.php
+
+
+
+Version 1.2.4
+*Edited Files
+style.css
+css/admin/main-stylesheet.css
+css/admin/main-responsive.css
+css/admin/post.css
+includes/lib/plugins/js_composer.zip
+includes/admin/functions/jquery-css-include.php
+includes/admin/functions/general.php
+images/control-panel-images/logo-orangethemes-2.png
+js/admin/scripts.js
+functions/legatus-menu.php
+
+Version 1.2.3
+*Edited Files
+includes/admin/documentation.php
+includes/lib/plugins/js_composer.zip
+
+Version 1.2.2
+*Edited Files
+functions/other.php
+functions/homepage-blocks.php
+template-homepage.php
+includes/admin/general.php
+
+
+Version 1.2.1
+*Edited Files
+js/scripts.js
+
+Version 1.2.0
+*Edited Files
+js/scripts.js
+
+Version 1.1.9
+*Edited Files
+includes/lib/plugin/js_composer.zip
+js/scripts.js
+js/masonry.pkgd.js
+js/scripts.php
+css/main-stylesheet.css
+css/responsive/phonehorizontal.css
+css/responsive/phonevertical.css
+functions/jquery-css-include.php
+functions/legatus-menu.php
+functions/other.php
+template-blocks.php
+
+Version 1.1.8
+*Edited Files
+functions/other.php
+
+Version 1.1.7
+*Edited Files
+functions/other.php
+functions/legatus-menu.php
+functions/filters.php
+functions/homepage-blocks.php
+functions/register.php
+functions/drag-drop.php
+css/main-stylesheet.css
+css/responsive/
+includes/shortcodes/video.php
+includes/admin/general.php
+includes/admin/style.php
+includes/news-single.php
+includes/news.php
+category.php
+category-template-1.php
+category-template-2.php
+category-template-3.php
+category-template-4.php
+category-template-5.php
+search.php
+template-archive.php
+includes/widgets/widget-legatus-category-posts.php
+includes/widgets/widget-legatus-latest-posts.php
+includes/widgets/widget-legatus-latest-posts-2.php
+includes/widgets/widget-legatus-popular-posts.php
+images/
+languages/
+
+Version 1.1.6
+*Edited Files
+includes/lib/plugin/js_composer.zip
+includes/admin/buttons-formatting/custom-editor-style.css
+includes/admin/jscolor/jscolor.js
+
+Version 1.1.5
+*Edited Files
+404.php
+comments.php
+languages/
+css/fonts.php
+includes/social.php
+includes/theme-config.php
+functions/legatus-menu.php
+
+
+Version 1.1.4
+*Edited Files
+css/fonts.php
+
+
+Version 1.1.3
+*Edited Files
+includes/lib/plugin/js_composer.zip
+css/responsive/phonehorizontal.css
+css/responsive/phonevertical.css
+css/main-stylesheet.css
+
+Version 1.1.2
+*Edited Files
+css/responsive/phonehorizontal.css
+css/responsive/phonevertical.css
+
+
+Version 1.1.1
+*Edited Files
+includes/lib/plugin/js_composer.zip
+includes/admin/general.php
+includes/admin/slider.php
+includes/admin/style.php
+includes/admin/functions/default-values.php
+functions/legatus-menu.php
+functions/filters.php
+functions/jquery-css-include.php
+includes/news-single.php
+js/srtipts.js
+js/scripts.php
+css/main-stylesheet.css
+css/dynamic-css.php
+
+
+Version 1.1.0
+*Edited Files
+functions/homepage-blocks.php
+includes/news.php
+category.php
+category-template-1.php
+search.php
+includes/lib/plugin/js_composer.zip
+
+Version 1.0.9
+* Edited Files
+includes/admin/functions/jquery-css-include.php
+js/admin/scripts.js
+includes/theme-config.php
+
+Version 1.0.8
+* Edited Files
+js/admin/scripts.js
+
+
+Version 1.0.7
+* Edited Files
+includes/lib/plugin/js_composer.zip
+
+Version 1.0.6
+*Edited files
+includes/admin/buttons-formatting/custom-editor-style.css
+
+Version 1.0.5
+*Edited files
+functions/jquery-css-include.php
+
+Version 1.0.4V
+* Edited Files
+includes/sidebar.php
+
+Version 1.0.3V
+* Edited Files
+functions/jquery-css-include.php
+includes/lib/plugin/js_composer.zip
+js/scripts.js
+css/main-stylesheet.css
+css/responsive/phonehorizontal.css
+css/responsive/phonevertical.css
+Version 1.0.2V
+* Edited Files
+category.php
+category-template-1.php
+category-template-2.php
+category-template-3.php
+category-template-4.php
+category-template-5.php
+comments.php
+search.php
+includes/news.php
+includes/news-single.php
+functions/homepage-blocks.php
+functions/drag-drop.php
+includes/admin/style.php
+languages/legatus.pot
+css/main-stylesheet.css
+
+
+Version 1.0.1V
+* Edited Files
+includes/top.php
+css/main-stylesheet.css
+js/scripts.js
+funstions/orher.php
+
+
+Version 1.0.0V
+* Initial Release
+
+
